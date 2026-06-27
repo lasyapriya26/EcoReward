@@ -1,0 +1,6 @@
+{
+  "name": "EcoReward",
+  "description": "Turn unwanted items into community value. Donate reusable items and recycle materials while earning rewards and helping your community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
